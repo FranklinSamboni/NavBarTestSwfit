@@ -15,6 +15,7 @@
 		368C823F236B36E100A7ED98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 368C823D236B36E100A7ED98 /* LaunchScreen.storyboard */; };
 		368C824A236B36E100A7ED98 /* Xcode11Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 368C8249236B36E100A7ED98 /* Xcode11Tests.swift */; };
 		368C8255236B36E100A7ED98 /* Xcode11UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 368C8254236B36E100A7ED98 /* Xcode11UITests.swift */; };
+		81215F9D236B87E300D08A87 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81215F9C236B87E300D08A87 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		368C8250236B36E100A7ED98 /* Xcode11UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Xcode11UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		368C8254236B36E100A7ED98 /* Xcode11UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xcode11UITests.swift; sourceTree = "<group>"; };
 		368C8256236B36E100A7ED98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81215F9C236B87E300D08A87 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				368C8232236B36DF00A7ED98 /* AppDelegate.swift */,
 				368C8234236B36DF00A7ED98 /* SceneDelegate.swift */,
 				368C8236236B36DF00A7ED98 /* ViewController.swift */,
+				81215F9C236B87E300D08A87 /* ViewController2.swift */,
 				368C8238236B36DF00A7ED98 /* Main.storyboard */,
 				368C823B236B36E100A7ED98 /* Assets.xcassets */,
 				368C823D236B36E100A7ED98 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				368C8237236B36DF00A7ED98 /* ViewController.swift in Sources */,
+				81215F9D236B87E300D08A87 /* ViewController2.swift in Sources */,
 				368C8233236B36DF00A7ED98 /* AppDelegate.swift in Sources */,
 				368C8235236B36DF00A7ED98 /* SceneDelegate.swift in Sources */,
 			);
